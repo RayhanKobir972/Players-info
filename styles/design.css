@@ -1,0 +1,17 @@
+h1{
+    color: darkgreen;
+    font-size: larger;
+    font-weight: 900;
+    font-style: italic;
+    text-align: center;
+    
+}
+h3{
+    text-align: center;
+}
+.box{
+    border: 5px solid rgb(49, 49, 145);
+    display: inline-block;
+    width: 300px;
+    padding: 10px;
+}
