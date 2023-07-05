@@ -9,9 +9,16 @@ h1{
 h3{
     text-align: center;
 }
+.pic{
+    height: 200px;
+    width: 280px;
+    margin-left: 10px;
+    border-radius: 50px;
+}
 .box{
     border: 5px solid rgb(49, 49, 145);
     display: inline-block;
     width: 300px;
     padding: 10px;
+    border-radius: 10px;
 }
