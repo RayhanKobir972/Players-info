@@ -3,9 +3,9 @@
 }
 #ht{
     display: flex;
-}
-#back{
-    background-image: url('background 1.jpg');
+    background-image: url("../images/background\ 1.jpg");
+    background-size: cover;
+    
 }
 h1{
     color: darkgreen;
@@ -17,6 +17,7 @@ h1{
 }
 h3{
     text-align: center;
+    color: rgb(128, 210, 47);
 }
 .pic{
     height: 200px;
@@ -25,6 +26,7 @@ h3{
     border-radius: 50px;
 }
 .box{
+    color: aliceblue;
     margin-right: 20px;
     margin-top: 50px;
     border: 5px solid rgb(49, 49, 145);
