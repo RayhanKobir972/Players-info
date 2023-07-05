@@ -1,5 +1,11 @@
 *{
-    margin: 10px;
+    /* margin: 10px; */
+}
+#ht{
+    display: flex;
+}
+#back{
+    background-image: url('background 1.jpg');
 }
 h1{
     color: darkgreen;
@@ -20,9 +26,10 @@ h3{
 }
 .box{
     margin-right: 20px;
+    margin-top: 50px;
     border: 5px solid rgb(49, 49, 145);
     display: inline-block;
-    height: 900px;
+    height: 820px;
     width: 307px;
     padding: 10px;
     border-radius: 10px;
