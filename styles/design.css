@@ -1,15 +1,35 @@
 *{
     /* margin: 10px; */
 }
+#parent{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+}
+#icon{
+    height: 70px;
+    width: 70px;
+}
+#sports{
+    color: aliceblue;
+    justify-content: space-around;
+   
+}
+#list{
+    list-style: none;
+    display: flex;
+    justify-content: space-between
+}
 #ht{
     display: flex;
+    justify-content: center;
     background-image: url("../images/background\ 1.jpg");
     background-size: cover;
     
 }
 h1{
     color: darkgreen;
-    font-size: larger;
+    font-size: 50px;
     font-weight: 900;
     font-style: italic;
     text-align: center;
@@ -29,6 +49,7 @@ h3{
     color: aliceblue;
     margin-right: 20px;
     margin-top: 50px;
+    margin-bottom: 50px;
     border: 5px solid rgb(49, 49, 145);
     display: inline-block;
     height: 820px;
